@@ -83,24 +83,6 @@ Instead, **Steam Advanced Sessions** offers:
 
 ---
 
-## 📂 Folder Structure
-
-
-/Source/
-├── CoreGameplay/
-├── MultiplayerLogic/
-│   ├── CreateSession
-│   ├── FindSessions
-│   └── JoinSession
-├── UI/
-│   ├── MainMenu
-│   └── LobbyScreen
-/Config/
-├── DefaultEngine.ini
-
-
-
-
 ## 🎯 Planned Improvements
 
 * In-game voice chat via Steam
