@@ -97,8 +97,6 @@ Instead, **Steam Advanced Sessions** offers:
 
 **Durkesh Kumar S**
 🎮 Unreal Engine Developer | Multiplayer Systems Designer
-📫 [durkeshkumarofficial@gmail.com](mailto:durkeshkumarofficial@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/durkesh-kumar-s)
 
 ---
 
